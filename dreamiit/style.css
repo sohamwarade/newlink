@@ -1,0 +1,112 @@
+/* Reset CSS */* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height:2;
+    background-color: #f7f7f7;
+    color: #000000;
+    margin: px;
+    padding: px;
+    text-align:center;
+}
+
+header {
+    position:;
+    background-color: #5a4bda;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+    left:00px;
+    right:0
+}
+
+nav ul {
+    list-style-type: auto;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: dotted;
+}
+
+.main-content {
+    padding: 10px;
+    font-family:fantasy;
+    font-size:12px;
+}
+
+footer {
+    background-color: #5a4bda;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    right: 0px;
+
+    padding: 10px;
+
+}
+body {
+      background: linear-gradient( rgb(107 112 112),rgb(255 249 250), rgb(97 92 92));
+      height: 900px;
+}
+button {
+
+    background-color: #5a4bda;
+    color:antiquewhite;
+    border: none;
+    padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  }
+
+
+
+
+
+
+
+
+.logo {
+position: absolute;
+top:2px;
+    left:10px;
+    width:100px;
+    top:132px;
+}
+h2 {
+
+    font-size: 10px;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: fantasy;
+    unicode-bidi: isolate;
+}
+
+/* Default styles */
+body {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
